@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #define START 2400
 #define PAUSE 600
 #define INFRARED_PIN 12
